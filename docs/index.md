@@ -31,5 +31,3 @@ Thank you for using our Chrome extensions. This privacy policy explains:
 
 7. **Contact us**  
    - If you have any questions, email **hamzaw31@gmail.com**
-
-*This policy applies to all our Chrome extensions, including (but not limited to) “Copy YouTube Transcript,” “Grok to PDF,” and “Gemini Bulk Delete.”*  
